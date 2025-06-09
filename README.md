@@ -11,6 +11,10 @@ Aplikacja webowa napisana we Flasku, która umożliwia:
 ![Zrzut ekranu 3](static/screen3.png)
 
 ---
+## Uruchomienie online
+
+[Zobacz działającą aplikację](https://isi-docker-app-1.onrender.com/)
+
 
 ##  Jak uruchomić lokalnie (Docker)
 

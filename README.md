@@ -6,9 +6,9 @@ Aplikacja webowa napisana we Flasku, która umożliwia:
 - Przeglądanie wszystkich dostępnych państw
 - Dodawanie nowych krajów
 
-![Zrzut ekranu 1](static/screen1.png)
-![Zrzut ekranu 2](static/screen2.png)
-![Zrzut ekranu 3](static/screen3.png)
+![Zrzut ekranu 1](country-info-app/static/screen1.png)
+![Zrzut ekranu 2](country-info-app/static/screen2.png)
+![Zrzut ekranu 3](country-info-app/static/screen3.png)
 
 ---
 ## Uruchomienie online

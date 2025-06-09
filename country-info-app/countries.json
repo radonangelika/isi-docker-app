@@ -1,0 +1,10 @@
+[
+  {"name":"Poland","capital":"Warsaw","population":37950000,"currency":"PLN"},
+  {"name":"Germany","capital":"Berlin","population":83100000,"currency":"EUR"},
+  {"name":"France","capital":"Paris","population":67390000,"currency":"EUR"},
+  {"name":"Japan","capital":"Tokyo","population":125800000,"currency":"JPY"},
+  {"name":"United States","capital":"Washington, D.C.","population":331000000,"currency":"USD"},
+  {"name":"Canada","capital":"Ottawa","population":38000000,"currency":"CAD"},
+  {"name":"Brazil","capital":"Brasília","population":212000000,"currency":"BRL"},
+  {"name":"Australia","capital":"Canberra","population":25690000,"currency":"AUD"}
+]
